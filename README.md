@@ -49,10 +49,8 @@ This REST API is designed to handle various aspects of HR management and invento
 ### Usage
 
 To start the API server locally, use the following command:
-
-    ```bash
-    npm start
-    ```
+  ```bash 
+  npm install```
 
 The API will be available at http://localhost:3000.
 
