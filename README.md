@@ -45,6 +45,7 @@ This REST API is designed to handle various aspects of HR management and invento
    ```bash
    npm install
    ```
+4. Rename the env.config.example.json file to env.config.json and configure your environment settings.
 
 ### Usage
 
